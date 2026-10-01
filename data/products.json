@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "NovaSound Wireless Headphones",
+    "sku": "ELEC-WH-001",
+    "category": "Electronics",
+    "price": 1999,
+    "inventory": 50,
+    "description": "Enjoy clear audio and comfortable listening with NovaSound Wireless Headphones. Designed for everyday use with wireless connectivity and a lightweight build."
+  },
+  {
+    "id": 2,
+    "name": "NovaBeat Bluetooth Speaker",
+    "sku": "ELEC-BS-002",
+    "category": "Electronics",
+    "price": 2499,
+    "inventory": 30,
+    "description": "Portable Bluetooth speaker with clear sound and a compact design, suitable for home entertainment and outdoor use."
+  },
+  {
+    "id": 3,
+    "name": "NovaFit Smart Watch",
+    "sku": "ELEC-SW-003",
+    "category": "Electronics",
+    "price": 3499,
+    "inventory": 8,
+    "description": "A modern smart watch designed for everyday activity tracking, notifications and convenient digital features."
+  },
+  {
+    "id": 4,
+    "name": "NovaClick Wireless Mouse",
+    "sku": "ELEC-WM-004",
+    "category": "Electronics",
+    "price": 899,
+    "inventory": 45,
+    "description": "Comfortable wireless mouse designed for everyday computer use with responsive controls and an ergonomic shape."
+  },
+  {
+    "id": 5,
+    "name": "NovaHub USB-C Hub",
+    "sku": "ELEC-UC-005",
+    "category": "Electronics",
+    "price": 1499,
+    "inventory": 5,
+    "description": "Compact USB-C hub designed to expand connectivity for laptops and compatible devices."
+  },
+  {
+    "id": 6,
+    "name": "NovaStyle Casual T-Shirt",
+    "sku": "FASH-TS-001",
+    "category": "Fashion",
+    "price": 799,
+    "inventory": 60,
+    "description": "Comfortable casual T-shirt designed for everyday wear with a simple and versatile style."
+  },
+  {
+    "id": 7,
+    "name": "NovaDenim Jacket",
+    "sku": "FASH-DJ-002",
+    "category": "Fashion",
+    "price": 2499,
+    "inventory": 25,
+    "description": "Classic denim jacket with a versatile design suitable for casual everyday outfits."
+  },
+  {
+    "id": 8,
+    "name": "NovaRun Running Shoes",
+    "sku": "FASH-RS-003",
+    "category": "Fashion",
+    "price": 2999,
+    "inventory": 12,
+    "description": "Lightweight running shoes designed for comfortable everyday movement and active lifestyles."
+  },
+  {
+    "id": 9,
+    "name": "NovaPack Everyday Backpack",
+    "sku": "FASH-BP-004",
+    "category": "Fashion",
+    "price": 1799,
+    "inventory": 35,
+    "description": "Practical everyday backpack with a spacious design for work, college and travel essentials."
+  },
+  {
+    "id": 10,
+    "name": "NovaCap Sports Cap",
+    "sku": "FASH-SC-005",
+    "category": "Fashion",
+    "price": 599,
+    "inventory": 4,
+    "description": "Lightweight sports cap designed for casual outdoor activities and everyday wear."
+  },
+  {
+    "id": 11,
+    "name": "NovaMug Coffee Mug",
+    "sku": "HOME-CM-001",
+    "category": "Home & Lifestyle",
+    "price": 399,
+    "inventory": 40,
+    "description": "Simple and stylish coffee mug suitable for everyday tea and coffee use at home or in the office."
+  },
+  {
+    "id": 12,
+    "name": "NovaGlow Table Lamp",
+    "sku": "HOME-TL-002",
+    "category": "Home & Lifestyle",
+    "price": 1299,
+    "inventory": 18,
+    "description": "Modern table lamp designed to provide comfortable lighting for desks, bedrooms and study spaces."
+  },
+  {
+    "id": 13,
+    "name": "NovaHydrate Water Bottle",
+    "sku": "HOME-WB-003",
+    "category": "Home & Lifestyle",
+    "price": 699,
+    "inventory": 55,
+    "description": "Reusable water bottle designed for everyday hydration at work, college, gym and outdoor activities."
+  },
+  {
+    "id": 14,
+    "name": "NovaComfort Cushion Set",
+    "sku": "HOME-CS-004",
+    "category": "Home & Lifestyle",
+    "price": 999,
+    "inventory": 20,
+    "description": "Comfortable cushion set designed to add style and comfort to sofas, chairs and living spaces."
+  },
+  {
+    "id": 15,
+    "name": "NovaDesk Organizer",
+    "sku": "HOME-DO-005",
+    "category": "Home & Lifestyle",
+    "price": 499,
+    "inventory": 3,
+    "description": "Compact desk organizer designed to keep stationery and everyday workspace accessories neatly arranged."
+  }
+]
